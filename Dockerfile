@@ -1,1 +1,1 @@
-FROM http://docker.elastic.co/elasticsearch/elasticsearch:6.1.2
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.1.2
